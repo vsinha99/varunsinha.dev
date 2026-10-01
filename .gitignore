@@ -78,6 +78,9 @@ web_modules/
 .next
 out
 
+# Local visual review output
+.visual-check/
+
 # Nuxt.js build / generate output
 .nuxt
 dist
@@ -141,3 +144,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+.claude/
+.codex/
+.impeccable/
